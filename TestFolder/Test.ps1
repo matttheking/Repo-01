@@ -1,1 +1,1 @@
-Get-Process t*
+Get-Process r*
